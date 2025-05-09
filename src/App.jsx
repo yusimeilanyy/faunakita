@@ -1,9 +1,12 @@
 import './index.css'
+import { Header } from './components/Header'
+import { Banner } from './components/Banner'
 
 function App() {
   return (
     <>
-      <h1 className="text-4xl font-bold text-amber-400">tesss</h1>
+      <Header />
+      <Banner />
     </>
   )
 }
