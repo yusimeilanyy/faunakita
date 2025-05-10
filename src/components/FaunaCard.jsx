@@ -32,7 +32,7 @@ const FaunaContent = [
 
 export const FaunaCard = () => {
   return (
-    <div className='flex gap-2'>
+    <div className='flex gap-8'>
         {FaunaContent.map((content,index)=>(
             <div className='flex flex-col shadow-xl max-w-120 rounded-2xl p-4 gap-2'>
             <div className='flex gap-4'>
