@@ -5,7 +5,7 @@ import Komodo from "../assets/komodo.png";
 export const Banner = () => {
   return (
     <div className="relative">
-      <img src={Komodo} alt=""/>
+      <img className='w-screen' src={Komodo} alt=""/>
         <div className="absolute bottom-10 left-10">
           <h1 className="text-7xl font-bold text-white">Eksplorasi.</h1>
           <h1 className="text-7xl font-bold text-white">Edukasi.</h1>
