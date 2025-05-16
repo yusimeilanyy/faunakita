@@ -1,8 +1,8 @@
 import React from 'react'
-import Cenderawasih from '../assets/image.png'
-import Kuskus from '../assets/image (1).png'
-import Komodo from '../assets/image (2).png'
-import Logo from '../assets/Logo.png'
+import Cenderawasih from '../../assets/image.png'
+import Kuskus from '../../assets/image (1).png'
+import Komodo from '../../assets/image (2).png'
+import Logo from '../../assets/Logo.png'
 import { BadgeCheck } from 'lucide-react'
 import { ArrowRight } from 'lucide-react'
 

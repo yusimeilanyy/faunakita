@@ -1,8 +1,7 @@
-import React from 'react';
-import Logo from "../assets/LogoFauna.svg";
-import Search from "../assets/search.png";
-import Community from "../assets/community.png";
-import Info from "../assets/info.png";
+import Logo from "../../assets/LogoFauna.svg";
+import Search from "../../assets/search.png";
+import Community from "../../assets/community.png";
+import Info from "../../assets/info.png";
 
 export const Header = () => {
   return (
